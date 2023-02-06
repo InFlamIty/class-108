@@ -1,0 +1,34 @@
+body
+{
+    background-color: red;
+    font-family: 'Roboto Mono', monospace;
+}
+.topDiv
+{
+    color: lightblue;
+    background-color: green;
+}
+p
+{
+    font-size: medium;
+    color: lightblue;
+ letter-spacing: 2px;
+}
+button
+{
+    margin-top: 30px;
+    width: 200px;
+    letter-spacing: 2px;
+    color: lightblue;
+    background-color: green;
+}
+.bottomDiv
+{
+    background-color: green;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    color: lightblue;
+    line-height: 3;
+}
